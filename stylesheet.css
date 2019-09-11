@@ -1,0 +1,27 @@
+body {
+ background-color: lightgray;
+}
+
+#Alexis_Header1 {text-align:center; color: navy }
+#Alexis_Header2 {text-align:center; color: navy }
+
+h5 {
+font-style: italic; font-weight: bold; color: navy; font-size: medium; margin-bottom: 1px;
+}
+
+body {
+  font-family: Times;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+h2 {
+border-style: groove; margin-bottom: 30px; padding: 5px 15px; 
+}
+
+.bold_details { font-weight:bold; padding-bottom:1pt; }
+
+.italic {font-style: italic; padding:0pt;
+	}
